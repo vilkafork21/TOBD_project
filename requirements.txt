@@ -1,0 +1,21 @@
+# Apache Spark
+pyspark==3.5.0
+
+# Apache Airflow
+apache-airflow==2.8.0
+apache-airflow-providers-postgres==5.10.0
+
+# PostgreSQL
+psycopg2-binary==2.9.9
+
+# Streamlit
+streamlit==1.29.0
+plotly==5.18.0
+pandas==2.1.4
+
+# Data processing
+numpy==1.26.3
+
+# Utilities
+python-dotenv==1.0.0
+
