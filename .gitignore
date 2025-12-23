@@ -37,8 +37,10 @@ wheels/
 # Data files (large CSV files)
 data/raw/*.csv
 data/raw/*.zip
+data/raw/archive-2/
 data/processed/*.parquet
 data/processed/*.csv
+data/processed/*/
 
 # Airflow
 airflow/logs/
